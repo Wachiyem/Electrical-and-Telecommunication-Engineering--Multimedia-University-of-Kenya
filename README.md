@@ -1,0 +1,2 @@
+# Electrical-and-Telecommunication-Engineering--Multimedia-University-of-Kenya
+These are some of the lecture notes delivered in the BSc Electrical and Telecommunications Engineering at the Multimedia University of Kenya. The lectures range from Engineering Mathematics to Communication Engineering courses such as Linear Algebra, Signals and Systems, Digital Communications, Probability and Stochastic Processes and Programming. 
